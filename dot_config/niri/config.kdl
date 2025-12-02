@@ -6,6 +6,6 @@
 // include top-level settings from the system-wide default config
 include "/usr/share/zirconium/zdots/system/niri/default.kdl"
 
-//include "/etc/niri/local.kdl"
+include "/etc/niri/local.kdl"
 
 include "local.kdl"
