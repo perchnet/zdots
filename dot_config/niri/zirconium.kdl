@@ -18,6 +18,10 @@ input {
     trackpoint {}
 }
 
+clipboard {
+    disable-primary
+}
+
 layout {
     gaps 16
 
